@@ -54,7 +54,6 @@ install cmake || true
 
 cask install keyremap4macbook || true
 cask install dropbox || true
-cask install hipchat || true
 cask install skype || true
 cask install bathyscaphe || true
 cask install robomongo || true
@@ -65,22 +64,13 @@ cask install alfred || true
 cask install sourcetree || true
 cask install google-chrome || true
 cask install firefox || true
-cask install yorufukurou || true
 cask install kindle || true
 cask install kobito || true
 cask install virtualbox || true
 cask install vagrant || true
 cask install vlc || true
-cask install vmware-fusion || true
 cask install intellij-idea-community || true
-cask install sublime-text || true
-cask install totalspaces || true
-cask install totalfinder || true
-cask install unity3d || true
-cask install xamarin-studio || true
 cask install iterm2 || true
-cask install light-table || true
-cask install nethackcocoa || true
 cask install soundflower || true
 cask install steam || true
 cask install appcleaner || true
